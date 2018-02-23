@@ -2,6 +2,7 @@
 Use of Bezier curves to display simple shapes and fonts
 
 Template code files was provided; all modified heavily
+Please have glfw, freetype, glad, glm all downloaded before running. Cannot upload respective folders since they are too big.  
 
 How to compile program:
 1. change directory to CPSC453A3
